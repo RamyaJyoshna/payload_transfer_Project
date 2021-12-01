@@ -36,12 +36,12 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>${mule.version}</muleVersion>
-						<username>${anypoint.username}</username>
-						<password>${anypoint.password}</password>
-						<environment>${env}</environment>
-						<applicationName>${appname}</applicationName>
-						<businessGroup>${business}</businessGroup>
+						<muleVersion>4.3.0</muleVersion>
+						<username>Srikanth6969</username>
+						<password>Learning@1</password>
+						<environment>SANDBOX</environment>
+						<applicationName>autodeployment.us-e2.cloudhub.io</applicationName>
+						<businessGroup>Xebia</businessGroup>
 						<workerType>${vCore}</workerType>
 						<workers>${workers}</workers>
 						<objectStoreV2>true</objectStoreV2>
