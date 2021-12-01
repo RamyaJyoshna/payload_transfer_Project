@@ -3,7 +3,7 @@ pipeline {
   agent any
   environment {
     //adding a comment for the commit test
-    DEPLOY_CREDS = credentials('Srikanth6969')
+    //DEPLOY_CREDS = credentials('Srikanth6969')
     MULE_VERSION = '4.3.0'
     BG = "<BUSINESS-GROUP>"
     WORKER = "Micro"
