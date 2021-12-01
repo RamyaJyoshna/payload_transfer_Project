@@ -39,11 +39,11 @@
 						<muleVersion>4.3.0</muleVersion>
 						<username>Srikanth6969</username>
 						<password>Learning@1</password>
-						<environment>SANDBOX</environment>
+						<environment>Sandbox</environment>
 						<applicationName>autodeployment.us-e2.cloudhub.io</applicationName>
 						<businessGroup>Xebia</businessGroup>
-						<workerType>${vCore}</workerType>
-						<workers>${workers}</workers>
+						<workerType>Micro</workerType>
+						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				<classifier>mule-application</classifier>
