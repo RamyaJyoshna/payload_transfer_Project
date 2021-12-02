@@ -4,7 +4,7 @@ pipeline {
   environment {
     //adding a comment for the commit test
     //DEPLOY_CREDS = credentials('Srikanth6969')
-    MULE_VERSION = '4.3.0'
+    MULE_VERSION = '4.4.0'
     BG = "<BUSINESS-GROUP>"
     WORKER = "Micro"
   }
